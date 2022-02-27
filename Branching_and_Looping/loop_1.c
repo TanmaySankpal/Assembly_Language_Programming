@@ -13,7 +13,6 @@ int main(){
 		i = i + 1; 
 		j = j + 3; 
 	}
-
 	exit(0); 
 
 }
