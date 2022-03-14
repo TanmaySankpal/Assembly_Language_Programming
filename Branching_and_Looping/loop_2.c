@@ -3,7 +3,8 @@
 
 int i, j; 
 
-int main(){
+int main()
+{
 
 	i = 0; 
 	j = 1;
